@@ -20,7 +20,7 @@ Hello everybody! 👋
 <br />
 
 ## 🔗 Links 
-- Live Site URL: [https://tucecifci.github.io/coffeeShop/](https://tucecifci.github.io/Product-Preview-Card-Component/)
+- Live Site URL: [https://tucecifci.github.io/Product-Preview-Card-Component/](https://tucecifci.github.io/Product-Preview-Card-Component/)
 
 ## 💡 Built With
 This project was built using the following technologies and tools:
